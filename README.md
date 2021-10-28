@@ -1,3 +1,5 @@
+**[DISCLAIMER] THIS FORK HAS BEEN CREATED TO IMPLEMENT A COMPATIBLE VERION OF THE VRF
+STANDARD [VERSION THREE](https://datatracker.ietf.org/doc/html/draft-irtf-cfrg-vrf-03#section-5.4.1.2). IT SHOULD NOT BE USED FOR ANY OTHER PURPOSES.**
 
 # curve25519-dalek [![](https://img.shields.io/crates/v/curve25519-dalek.svg)](https://crates.io/crates/curve25519-dalek) [![](https://img.shields.io/badge/dynamic/json.svg?label=docs&uri=https%3A%2F%2Fcrates.io%2Fapi%2Fv1%2Fcrates%2Fcurve25519-dalek%2Fversions&query=%24.versions%5B0%5D.num&colorB=4F74A6)](https://doc.dalek.rs) [![](https://travis-ci.org/dalek-cryptography/curve25519-dalek.svg?branch=master)](https://travis-ci.org/dalek-cryptography/curve25519-dalek)
 
